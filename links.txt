@@ -1,0 +1,7 @@
+https://en.ryte.com/free-tools/robots-txt/
+
+https://make-school-courses.github.io/BEW-2.5-Strongly-Typed-Languages/#/Lessons/WebScraping.md
+
+http://go-colly.org/docs/examples/login/
+
+https://shields.io/
